@@ -1,0 +1,30 @@
+{
+    "Geometric Parameters": {
+        "1.Number of Floors": "2",
+        "2.Building Height": "14",
+        "3.Building Shape": "4)Complex",
+        "4.Building Footprint Area": "2100",
+        "5.Height to Crane Rail": "None (Civil)",
+        "6.Span Width (Average)": "0"
+    },
+    "Parameters by Types": {
+        "7.Building Type": "3)Public",
+        "8.Structural Scheme": "2)Framed",
+        "9.Building Solidity": "4)ІV",
+        "10.Type of Flooring": "1)Monolithic",
+        "11.Material of Load-Bearing Structures": "1)Concrete",
+        "12.Method of Manufacturing Reinforced Concrete Structures": "1)Monolithic",
+        "13.Year of Construction": "1997",
+        "14.Consequence Class": "2)СС2"
+    },
+    "Site`s Parameters": {
+        "15.Soil Type of the Object's Foundation": "4)Sandy",
+        "16.Need for Additional Ground Reinforcemen": "3)Reinforced Concrete Piles (Retaining Wall)",
+        "17.Distance from Power Transmission Lines": "4)15-40m",
+        "18.Distance from Railroad Tracks": "1)None",
+        "19.Presence of Radiation Exposure Exceedance": false,
+        "20.Requirement for Project Approval from Special Services": "4)Yes(Electrical Networks)",
+        "21.Use of Specialized Production Standards": "5)None",
+        "22.Need for Utility Relocation": false
+    }
+}
