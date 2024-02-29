@@ -184,7 +184,7 @@ class SiteParametersTab(QWidget):
         layout.addWidget(QLabel("Distance from Railroad Tracks:"), 4, 0)
         self.distance_from_railway = QLineEdit()
         self.distance_from_railway = QComboBox()
-        self.distance_from_railway.addItems(["1)None", "2)1-5m", "3)5-15m","4)15-40m"])
+        self.distance_from_railway.addItems(["1)None", "2)1-2m", "3)3-5m","4)5-10m"])
         layout.addWidget(self.distance_from_railway, 4, 1)
 
         # Наявність перевищення норм радіації
@@ -195,7 +195,7 @@ class SiteParametersTab(QWidget):
         # Необхідність погодження проекту зі спец. службами
         layout.addWidget(QLabel("Requirement for Project Approval from Special Services:"), 6, 0)
         self.special_services_approval = QComboBox()
-        self.special_services_approval.addItems(["1)None ", "2)Yes(Water Supply)", "3)Yes(Gas Service)","4)Yes(Electrical Networks)","5)Yes(Environmental)"])
+        self.special_services_approval.addItems(["1)None", "2)Yes(Water Supply)", "3)Yes(Gas Service)","4)Yes(Electrical Networks)","5)Yes(Environmental)"])
         layout.addWidget(self.special_services_approval, 6, 1)
 
         # Використання спеціалізованих норм на виробництві

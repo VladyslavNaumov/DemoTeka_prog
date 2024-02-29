@@ -1,30 +1,32 @@
 {
     "Geometric Parameters": {
-        "1.Number of Floors": "10",
-        "2.Building Height": "30",
-        "3.Building Shape": "1)Rectangular",
-        "4.Building Footprint Area": "550",
-        "5.Height to Crane Rail": "None (Civil)",
-        "6.Span Width (Average)": ""
+        "1.Number of Floors": 4,
+        "2.Building Height": 4,
+        "3.Building Shape": 1,
+        "4.Building Footprint Area": 2,
+        "5.Height to Crane Rail": 1,
+        "6.Span Width (Average)": 1
     },
     "Parameters by Types": {
-        "7.Building Type": "1)Residential",
-        "8.Structural Scheme": "1)Frameless",
-        "9.Building Solidity": "1)І",
-        "10.Type of Flooring": "1)Monolithic",
-        "11.Material of Load-Bearing Structures": "2)Reinforced concrete",
-        "12.Method of Manufacturing Reinforced Concrete Structures": "2)Prefabricated",
-        "13.Year of Construction": "1984",
-        "14.Consequence Class": "2)СС2"
+        "7.Building Type": 1,
+        "8.Structural Scheme": 1,
+        "9.Building Solidity": 1,
+        "10.Type of Flooring": 1,
+        "11.Material of Load-Bearing Structures": 2,
+        "12.Method of Manufacturing Reinforced Concrete Structures": 2,
+        "13.Year of Construction": 4,
+        "14.Consequence Class": 2
     },
     "Site`s Parameters": {
-        "15.Soil Type of the Object's Foundation": "3)Silty",
-        "16.Need for Additional Ground Reinforcemen": "4)None",
-        "17.Distance from Power Transmission Lines": "3)5-15m",
-        "18.Distance from Railroad Tracks": "1)None",
-        "19.Presence of Radiation Exposure Exceedance": true,
-        "20.Requirement for Project Approval from Special Services": "4)Yes(Electrical Networks)",
-        "21.Use of Specialized Production Standards": "5)None",
-        "22.Need for Utility Relocation": true
+        "15.Soil Type of the Object's Foundation": 3,
+        "16.Need for Additional Ground Reinforcemen": 4,
+        "17.Distance from Power Transmission Lines": 3,
+        "18.Distance from Railroad Tracks": 1,
+        "19.Presence of Radiation Exposure Exceedance": 1,
+        "20.Requirement for Project Approval from Special Services": 4,
+        "21.Use of Specialized Production Standards": 5,
+        "22.Need for Utility Relocation": 2
     }
 }
+
+
